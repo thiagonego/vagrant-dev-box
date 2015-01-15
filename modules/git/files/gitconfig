@@ -1,3 +1,7 @@
+[user]
+    name = Thiago Sampaio
+    email = thiagonego@gmail.com
+
 [alias]
     br = branch
     ci = commit
